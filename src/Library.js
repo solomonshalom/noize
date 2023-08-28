@@ -63,7 +63,7 @@ function Library(props) {
             About
           </a>{" "}
           section and if you’re interested you can find the source code on{" "}
-          <a href="https://github.com/kartiknair/noize">GitHub</a>
+          <a href="https://github.com/solomonshalom/noize">GitHub</a>
         </p>
       </div>
       {finalSongs}

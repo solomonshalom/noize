@@ -34,8 +34,12 @@ function About(props) {
       <div className="credits">
         <h4>Credits</h4>
         <p>
+          Original Creator of the Site
+          <a href="https://github.com/kartiknair">Kartik Nair</a>
+        </p>
+        <p>
           Beautiful Pixel Art by
-          <a href="https://1041uuu.tumblr.com/"> 1041uuu</a>
+          <a href="https://1041uuu.tumblr.com/">1041uuu</a>
         </p>
         <p>
           Waterfall in the forest by{" "}
